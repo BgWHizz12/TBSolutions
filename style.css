@@ -193,7 +193,7 @@ body, .container, .video-controls, .video-timer, .options{
   background: #3e97fd;
 }
 .container video{
-  width: 100%;
+  heigth: 100%;
 }
 
 @media screen and (max-width: 540px) {
